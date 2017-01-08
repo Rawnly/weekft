@@ -1,0 +1,15 @@
+{
+  "name": "weekft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "author": {
+    "name": "Federico Vitale",
+    "email": "fedevitale99@gmail.com",
+    "url": "http://www.rawnly.com"
+  },
+  "git": "https://github.com/Rawnly/week.git"
+}
